@@ -2,7 +2,7 @@
 
 Este script permite eludir la mayoría de los controles de plagio, que se utilizan a menudo en la educación, sin que notifiquen plagio aún teniendo el mismo texto que otra persona, es decir, realizando plagio.
 
-## Cómo funciona?
+## ¿Cómo funciona?
 
 Los programas de plagio normalmente comparan textos para buscar coincidencias entre ellos, mediante este programa dispondremos de dos útiles funciones para eludirlos:
 * **Homóglifos**: se emplea esta palabra para referirse a caracteres que visualmente aparentan ser idénticos pero que en realidad son diferentes. Mediante ellos, conseguimos cambiar los caracteres de todo el texto por otros que parecen los mismos pero que difieren del texto original.
