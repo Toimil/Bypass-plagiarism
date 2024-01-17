@@ -1,6 +1,6 @@
 # Bypass Plagiarism Programs
 
-Este script permite eludir la mayoría de los controles de plagio, que se utilizan a menudo en la educación, sin que notifiquen plagio aún teniendo el mismo texto que otra persona, es decir, realizando plagio.
+Este script permite eludir la mayoría de los controles de plagio, que se utilizan a menudo en la educación, sin que notifiquen plagio aún teniendo el mismo texto que otra persona.
 
 ## ¿Cómo funciona?
 
